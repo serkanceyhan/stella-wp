@@ -1,21 +1,37 @@
-# Tüm uploads klasörü
-wp-content/uploads/
+# Root seviye gereksiz dosyalar
+.htaccess.bk
+.htaccess_back_*
+license.txt
+readme.html
+*.log
+*.txt
+output*.log
+redirects.txt
+urls.txt
+*_urls.txt
 
-# Backup klasörleri
-wp-content/updraft/
-wp-content/backup*/
-wp-content/backups/
+# wp-content seviye
+wp-content/advanced-cache.php
+wp-content/cache/
+wp-content/debug.log
+wp-content/ewww/
+wp-content/object-cache.php
+wp-content/wp-rocket-config/
+wp-content/languages/
 
-# Video ve PDF dosyaları (her yerde)
-**/*.mp4
-**/*.mov
-**/*.avi
-**/*.pdf
-**/*.zip
-**/*.tar.gz
+# Tema ve plugin içindeki gereksizler
+wp-content/plugins/*.zip
+wp-content/plugins/themesc/importer/data/*/revslider/
+wp-content/themes/stella/framework/plugins/
 
-# SQL dosyaları
-*.sql
-*.sql.gz
-wp-content/uploads/
-wp-content/updraft/
+# Uploads backup ve cache (tekrar)
+wp-content/uploads/backup/
+wp-content/uploads/cache/
+wp-content/uploads/ShortpixelBackups/
+
+# Facebook WooCommerce geçici dosyalar
+wp-content/uploads/facebook_for_woocommerce/*.csv
+wp-content/uploads/facebook_for_woocommerce/product_catalog_temp_*.csv
+
+# Contact Form 7 geçici yüklemeler
+wp-content/uploads/wpcf7_uploads/
