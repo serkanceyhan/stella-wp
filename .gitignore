@@ -1,0 +1,21 @@
+# Tüm uploads klasörü
+wp-content/uploads/
+
+# Backup klasörleri
+wp-content/updraft/
+wp-content/backup*/
+wp-content/backups/
+
+# Video ve PDF dosyaları (her yerde)
+**/*.mp4
+**/*.mov
+**/*.avi
+**/*.pdf
+**/*.zip
+**/*.tar.gz
+
+# SQL dosyaları
+*.sql
+*.sql.gz
+wp-content/uploads/
+wp-content/updraft/

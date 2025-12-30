@@ -1,0 +1,287 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Remove Add to Cart Button for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-22 13:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: remove-add-to-cart-button-woocommerce"
+
+#: remove-add-to-cart-button-woocommerce.php:145
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:213
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:277
+msgid ""
+"Awesome Premium Features in Remove Add to Cart Button for WooCommerce Plugin"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:303
+msgid "Button Settings"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:337
+msgid "Cart/Checkout Page Redirect to"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:353
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:369
+msgid "Change the message section background color from here."
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:345
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:361
+msgid "Change the message text color from here."
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:323
+msgid "Disable Cart Page"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:330
+msgid "Disable Checkout Page"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:339
+msgid ""
+"Enter the Cart/Checkout Page Redirect URL here. By default, it will go to "
+"the Shop page if this field is empty."
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:316
+msgid "Enter the Login/Register button label"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:318
+msgid "Enter the Login/Register button label which will show in frontend."
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:309
+msgid "Enter the Login/Register page URL here"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:311
+msgid ""
+"Enter the Login/Register page URL here. By default, it will go to the My "
+"Account page for Login/Register if this field is empty."
+msgstr ""
+
+#: remove-add-to-cart-button-woocommerce.php:150
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:218
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:282
+msgid ""
+"Exclude products for removing the Add to Cart button and Price for a category"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:169
+msgid "For All"
+msgstr ""
+
+#: remove-add-to-cart-button-woocommerce.php:97
+msgid "Go Pro"
+msgstr ""
+
+#: remove-add-to-cart-button-woocommerce.php:153
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:221
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:285
+msgid ""
+"Have an options to show/hide custom messages from shop page, category pages "
+"and product details page."
+msgstr ""
+
+#: remove-add-to-cart-button-woocommerce.php:154
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:222
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:286
+msgid "Have options to change the default Out of Stock and Backorder messages."
+msgstr ""
+
+#: remove-add-to-cart-button-woocommerce.php:158
+msgid "Hide Notice"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:197
+msgid "Hide Product Price :"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:199
+msgid "Hide product price in frontend"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:204
+msgid "Hide Product Price Message :"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:368
+msgid "Hide Product Price Message Background Color"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:360
+msgid "Hide Product Price Message Text Color"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/remove-add-to-cart-button-for-woocommerce"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpartisan.net/"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:192
+msgid ""
+"Message instead of Add to Cart for this product in frontend. If you don't "
+"want to show the message then nothings need to add here."
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:206
+msgid ""
+"Message instead of Product Price for this product in frontend. If you don't "
+"want to show the message then nothings need to add here."
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:170
+msgid "Only for Visitors"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:168
+msgid "Please select"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:325
+msgid "Prevent access to the cart page."
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:332
+msgid "Prevent access to the checkout page."
+msgstr ""
+
+#: remove-add-to-cart-button-woocommerce.php:155
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:223
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:287
+msgid "Priority email support"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:383
+msgid "Product Backorder Message"
+msgstr ""
+
+#: remove-add-to-cart-button-woocommerce.php:151
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:219
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:283
+msgid "Product enquiry form on product details pages"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:376
+msgid "Product Out of Stock Message"
+msgstr ""
+
+#: remove-add-to-cart-button-woocommerce.php:152
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:220
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:284
+msgid ""
+"Redirect products to third-party or affiliate sites, by assigning a custom "
+"URL for products."
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:112
+msgid "Remove Add to Cart Button"
+msgstr ""
+
+#: remove-add-to-cart-button-woocommerce.php:148
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:216
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:280
+msgid "Remove Add to Cart Button Based on Countries"
+msgstr ""
+
+#: remove-add-to-cart-button-woocommerce.php:147
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:215
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:279
+msgid "Remove Add to Cart Button Based on User Roles"
+msgstr ""
+
+#. Name of the plugin
+msgid "Remove Add to Cart Button for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Remove Add to Cart Button for WooCommerce Plugin gives you a really easy "
+"interface to hide/remove the Product Add to Cart button for all users or "
+"only for the visitors. It has an option to hide the product price, also."
+msgstr ""
+
+#: remove-add-to-cart-button-woocommerce.php:81
+msgid ""
+"Remove Add to Cart Button for WooCommerce Plugin is enabled but not "
+"effective. In order to work it requires WooCommerce."
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:175
+msgid "Remove Add to Cart For :"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:190
+msgid "Remove Add to Cart Message :"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:352
+msgid "Remove Add to Cart Message Background Color"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:344
+msgid "Remove Add to Cart Message Text Color"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:384
+msgid "Replace the default Backorder message with this."
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:377
+msgid "Replace the default Out of Stock message with this."
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:178
+msgid "Select a option to remove Add to Cart button for"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:157
+msgid "Select countries"
+msgstr ""
+
+#: remove-add-to-cart-button-woocommerce.php:149
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:217
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:281
+msgid "Set Category Wise Remove Add to Cart Button Conditions"
+msgstr ""
+
+#: remove-add-to-cart-button-woocommerce.php:95
+msgid "Settings"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:183
+msgid "Show Login/Register button ?"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:185
+msgid ""
+"Show Login/Register button when Add to Cart button is hidden in frontend"
+msgstr ""
+
+#: remove-add-to-cart-button-woocommerce.php:157
+msgid "Upgrade Now!"
+msgstr ""
+
+#: admin/class-remove-add-to-cart-button-woocommerce-admin.php:262
+msgid "Visibility Settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "wpArtisan"
+msgstr ""
